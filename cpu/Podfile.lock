@@ -1,0 +1,13 @@
+PODS:
+  - Firebase (2.5.1)
+  - Onboard (2.1.9)
+
+DEPENDENCIES:
+  - Firebase (>= 2.5.1)
+  - Onboard
+
+SPEC CHECKSUMS:
+  Firebase: 3565ea88b830f28f2c77ecc524622bc71a20d085
+  Onboard: 4d92c763ed15f939071dec12e87ed9e8dc036746
+
+COCOAPODS: 0.39.0

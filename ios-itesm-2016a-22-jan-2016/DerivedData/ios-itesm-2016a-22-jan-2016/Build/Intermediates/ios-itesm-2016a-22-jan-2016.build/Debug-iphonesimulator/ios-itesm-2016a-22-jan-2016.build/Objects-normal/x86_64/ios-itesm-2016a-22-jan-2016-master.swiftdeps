@@ -1,0 +1,9 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "cbf3279be21816062b8d156e7d43754e"
+build_time: [507047826, 746717000]
+inputs:
+  "/Users/miguelicious/miguelicious/ios-class-tec/Code/ios-itesm-2016a-22-jan-2016/ios-itesm-2016a-22-jan-2016/CustomCell.swift": [506888634, 0]
+  "/Users/miguelicious/miguelicious/ios-class-tec/Code/ios-itesm-2016a-22-jan-2016/ios-itesm-2016a-22-jan-2016/SecondViewController.swift": [506884797, 0]
+  "/Users/miguelicious/miguelicious/ios-class-tec/Code/ios-itesm-2016a-22-jan-2016/ios-itesm-2016a-22-jan-2016/AppDelegate.swift": [506823129, 0]
+  "/Users/miguelicious/miguelicious/ios-class-tec/Code/ios-itesm-2016a-22-jan-2016/ios-itesm-2016a-22-jan-2016/ViewController.swift": [506826604, 0]
+  "/Users/miguelicious/miguelicious/ios-class-tec/Code/ios-itesm-2016a-22-jan-2016/ios-itesm-2016a-22-jan-2016/FriendsTableViewController.swift": [506923161, 0]

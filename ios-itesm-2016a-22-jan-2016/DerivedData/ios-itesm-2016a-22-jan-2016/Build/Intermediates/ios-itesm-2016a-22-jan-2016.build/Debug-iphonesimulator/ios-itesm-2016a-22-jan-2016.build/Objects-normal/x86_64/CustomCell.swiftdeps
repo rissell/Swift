@@ -1,0 +1,212 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "CustomCell"
+provides-nominal:
+- "C27ios_itesm_2016a_22_jan_201610CustomCell"
+provides-member:
+- ["C27ios_itesm_2016a_22_jan_201610CustomCell", ""]
+provides-dynamic-lookup:
+- "marTitle"
+- "awakeFromNib"
+- "setSelected"
+- "marImage"
+- "marSubtitle"
+depends-top-level:
+- "UITableViewCell"
+- "UILabel"
+- "UIImageView"
+- "Bool"
+- "CustomCell"
+depends-member:
+- ["PSs9AnyObject", "awakeFromNib"]
+- ["PSs9AnyObject", "init"]
+- ["PSs9AnyObject", "marImage"]
+- ["PSs9AnyObject", "marSubtitle"]
+- ["PSs9AnyObject", "marTitle"]
+- ["PSs9AnyObject", "setSelected"]
+- ["PSs9AnyObject", ""]
+- ["PSs11CVarArgType", "awakeFromNib"]
+- ["PSs11CVarArgType", "init"]
+- ["PSs11CVarArgType", "marImage"]
+- ["PSs11CVarArgType", "marSubtitle"]
+- ["PSs11CVarArgType", "marTitle"]
+- ["PSs11CVarArgType", "setSelected"]
+- ["PSs11CVarArgType", ""]
+- ["C27ios_itesm_2016a_22_jan_201610CustomCell", "Bool"]
+- ["C27ios_itesm_2016a_22_jan_201610CustomCell", "UIImageView"]
+- ["C27ios_itesm_2016a_22_jan_201610CustomCell", "UILabel"]
+- ["C27ios_itesm_2016a_22_jan_201610CustomCell", "awakeFromNib"]
+- ["C27ios_itesm_2016a_22_jan_201610CustomCell", "deinit"]
+- ["C27ios_itesm_2016a_22_jan_201610CustomCell", "init"]
+- ["C27ios_itesm_2016a_22_jan_201610CustomCell", "marImage"]
+- ["C27ios_itesm_2016a_22_jan_201610CustomCell", "marSubtitle"]
+- ["C27ios_itesm_2016a_22_jan_201610CustomCell", "marTitle"]
+- ["C27ios_itesm_2016a_22_jan_201610CustomCell", "setSelected"]
+- ["PSs23CustomStringConvertible", "awakeFromNib"]
+- ["PSs23CustomStringConvertible", "init"]
+- ["PSs23CustomStringConvertible", "marImage"]
+- ["PSs23CustomStringConvertible", "marSubtitle"]
+- ["PSs23CustomStringConvertible", "marTitle"]
+- ["PSs23CustomStringConvertible", "setSelected"]
+- ["PSs23CustomStringConvertible", ""]
+- ["PSs9Equatable", "awakeFromNib"]
+- ["PSs9Equatable", "init"]
+- ["PSs9Equatable", "marImage"]
+- ["PSs9Equatable", "marSubtitle"]
+- ["PSs9Equatable", "marTitle"]
+- ["PSs9Equatable", "setSelected"]
+- ["PSs9Equatable", ""]
+- ["PSs8Hashable", "awakeFromNib"]
+- ["PSs8Hashable", "init"]
+- ["PSs8Hashable", "marImage"]
+- ["PSs8Hashable", "marSubtitle"]
+- ["PSs8Hashable", "marTitle"]
+- ["PSs8Hashable", "setSelected"]
+- ["PSs8Hashable", ""]
+- ["PSo8NSCoding", "awakeFromNib"]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "marImage"]
+- ["PSo8NSCoding", "marSubtitle"]
+- ["PSo8NSCoding", "marTitle"]
+- ["PSo8NSCoding", "setSelected"]
+- ["PSo8NSCoding", ""]
+- ["CSo8NSObject", "Bool"]
+- ["CSo8NSObject", "UIImageView"]
+- ["CSo8NSObject", "UILabel"]
+- ["CSo8NSObject", "awakeFromNib"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "marImage"]
+- ["CSo8NSObject", "marSubtitle"]
+- ["CSo8NSObject", "marTitle"]
+- ["CSo8NSObject", "setSelected"]
+- ["PSo16NSObjectProtocol", "awakeFromNib"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "marImage"]
+- ["PSo16NSObjectProtocol", "marSubtitle"]
+- ["PSo16NSObjectProtocol", "marTitle"]
+- ["PSo16NSObjectProtocol", "setSelected"]
+- ["PSo16NSObjectProtocol", ""]
+- ["PSo29UIAccessibilityIdentification", "awakeFromNib"]
+- ["PSo29UIAccessibilityIdentification", "init"]
+- ["PSo29UIAccessibilityIdentification", "marImage"]
+- ["PSo29UIAccessibilityIdentification", "marSubtitle"]
+- ["PSo29UIAccessibilityIdentification", "marTitle"]
+- ["PSo29UIAccessibilityIdentification", "setSelected"]
+- ["PSo29UIAccessibilityIdentification", ""]
+- ["PSo12UIAppearance", "awakeFromNib"]
+- ["PSo12UIAppearance", "init"]
+- ["PSo12UIAppearance", "marImage"]
+- ["PSo12UIAppearance", "marSubtitle"]
+- ["PSo12UIAppearance", "marTitle"]
+- ["PSo12UIAppearance", "setSelected"]
+- ["PSo12UIAppearance", ""]
+- ["PSo21UIAppearanceContainer", "awakeFromNib"]
+- ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "marImage"]
+- ["PSo21UIAppearanceContainer", "marSubtitle"]
+- ["PSo21UIAppearanceContainer", "marTitle"]
+- ["PSo21UIAppearanceContainer", "setSelected"]
+- ["PSo21UIAppearanceContainer", ""]
+- ["PSo17UICoordinateSpace", "awakeFromNib"]
+- ["PSo17UICoordinateSpace", "init"]
+- ["PSo17UICoordinateSpace", "marImage"]
+- ["PSo17UICoordinateSpace", "marSubtitle"]
+- ["PSo17UICoordinateSpace", "marTitle"]
+- ["PSo17UICoordinateSpace", "setSelected"]
+- ["PSo17UICoordinateSpace", ""]
+- ["PSo13UIDynamicItem", "awakeFromNib"]
+- ["PSo13UIDynamicItem", "init"]
+- ["PSo13UIDynamicItem", "marImage"]
+- ["PSo13UIDynamicItem", "marSubtitle"]
+- ["PSo13UIDynamicItem", "marTitle"]
+- ["PSo13UIDynamicItem", "setSelected"]
+- ["PSo13UIDynamicItem", ""]
+- ["PSo18UIFocusEnvironment", "awakeFromNib"]
+- ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "marImage"]
+- ["PSo18UIFocusEnvironment", "marSubtitle"]
+- ["PSo18UIFocusEnvironment", "marTitle"]
+- ["PSo18UIFocusEnvironment", "setSelected"]
+- ["PSo18UIFocusEnvironment", ""]
+- ["PSo27UIGestureRecognizerDelegate", "awakeFromNib"]
+- ["PSo27UIGestureRecognizerDelegate", "init"]
+- ["PSo27UIGestureRecognizerDelegate", "marImage"]
+- ["PSo27UIGestureRecognizerDelegate", "marSubtitle"]
+- ["PSo27UIGestureRecognizerDelegate", "marTitle"]
+- ["PSo27UIGestureRecognizerDelegate", "setSelected"]
+- ["PSo27UIGestureRecognizerDelegate", ""]
+- ["CSo11UIResponder", "Bool"]
+- ["CSo11UIResponder", "UIImageView"]
+- ["CSo11UIResponder", "UILabel"]
+- ["CSo11UIResponder", "awakeFromNib"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "marImage"]
+- ["CSo11UIResponder", "marSubtitle"]
+- ["CSo11UIResponder", "marTitle"]
+- ["CSo11UIResponder", "setSelected"]
+- ["CSo15UITableViewCell", "Bool"]
+- ["CSo15UITableViewCell", "UIImageView"]
+- ["CSo15UITableViewCell", "UILabel"]
+- ["CSo15UITableViewCell", "awakeFromNib"]
+- ["CSo15UITableViewCell", "init"]
+- ["CSo15UITableViewCell", "marImage"]
+- ["CSo15UITableViewCell", "marSubtitle"]
+- ["CSo15UITableViewCell", "marTitle"]
+- ["CSo15UITableViewCell", "setSelected"]
+- ["CSo15UITableViewCell", ""]
+- ["PSo18UITraitEnvironment", "awakeFromNib"]
+- ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "marImage"]
+- ["PSo18UITraitEnvironment", "marSubtitle"]
+- ["PSo18UITraitEnvironment", "marTitle"]
+- ["PSo18UITraitEnvironment", "setSelected"]
+- ["PSo18UITraitEnvironment", ""]
+- ["CSo6UIView", "Bool"]
+- ["CSo6UIView", "UIImageView"]
+- ["CSo6UIView", "UILabel"]
+- ["CSo6UIView", "awakeFromNib"]
+- ["CSo6UIView", "init"]
+- ["CSo6UIView", "marImage"]
+- ["CSo6UIView", "marSubtitle"]
+- ["CSo6UIView", "marTitle"]
+- ["CSo6UIView", "setSelected"]
+- ["PSs12_Reflectable", "awakeFromNib"]
+- ["PSs12_Reflectable", "init"]
+- ["PSs12_Reflectable", "marImage"]
+- ["PSs12_Reflectable", "marSubtitle"]
+- ["PSs12_Reflectable", "marTitle"]
+- ["PSs12_Reflectable", "setSelected"]
+- ["PSs12_Reflectable", ""]
+depends-nominal:
+- "PSs9AnyObject"
+- "PSs11CVarArgType"
+- "C27ios_itesm_2016a_22_jan_201610CustomCell"
+- "PSs23CustomStringConvertible"
+- "PSs9Equatable"
+- "PSs8Hashable"
+- "PSo8NSCoding"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "PSo29UIAccessibilityIdentification"
+- "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "PSo17UICoordinateSpace"
+- "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- "PSo27UIGestureRecognizerDelegate"
+- "CSo11UIResponder"
+- "CSo15UITableViewCell"
+- "PSo18UITraitEnvironment"
+- "CSo6UIView"
+- "PSs12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+interface-hash: "44237c6158f3d51f067ac509cf7f602d"
